@@ -9,7 +9,7 @@ No error checking
 <pre>
 $ <b>gcc substitution.c -o substitution</b>
 $ <b>./substitution zyxwvutsrqponmlkjihgfedcba</b>
-message
+<b>message</b>
 nvhhztv
 <ctrl+D>
 </pre>
