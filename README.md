@@ -6,13 +6,13 @@ No error checking
 
 ## Usage
 
-```bash
-$ gcc substitution.c -o substitution
-$ ./substitution zyxwvutsrqponmlkjihgfedcba
+<pre>
+$ <b>gcc substitution.c -o substitution</b>
+$ <b>./substitution zyxwvutsrqponmlkjihgfedcba</b>
 message
 nvhhztv
 <ctrl+D>
-```
+</pre>
 
 ## Installation
 
